@@ -1,44 +1,44 @@
 aq,temp,humidity,label
-35,26,55,Very Good
-42,27,60,Very Good
-55,28,58,Very Good
-60,29,62,Very Good
-48,27,57,Very Good
-70,30,65,Very Good
-85,31,68,Very Good
-90,29,64,Very Good
-75,28,61,Very Good
-65,27,59,Very Good
-50,26,56,Very Good
-80,30,66,Very Good
-95,31,69,Very Good
-88,29,63,Very Good
-72,28,60,Very Good
-68,27,58,Very Good
-45,26,54,Very Good
-58,28,57,Very Good
-62,29,62,Very Good
-78,30,64,Very Good
-82,31,67,Very Good
-91,30,66,Very Good
-53,27,55,Very Good
-66,28,59,Very Good
-74,29,61,Very Good
-84,30,63,Very Good
-92,31,68,Very Good
-87,29,65,Very Good
-79,28,62,Very Good
-69,27,58,Very Good
-57,26,54,Very Good
-64,28,60,Very Good
-73,29,63,Very Good
-81,30,66,Very Good
-89,31,69,Very Good
-77,29,64,Very Good
-71,28,61,Very Good
-63,27,57,Very Good
-54,26,55,Very Good
-59,28,58,Very Good
+35,26,55,Clean Air
+42,27,60,Clean Air
+55,28,58,Clean Air
+60,29,62,Clean Air
+48,27,57,Clean Air
+70,30,65,Clean Air
+85,31,68,Clean Air
+90,29,64,Clean Air
+75,28,61,Clean Air
+65,27,59,Clean Air
+50,26,56,Clean Air
+80,30,66,Clean Air
+95,31,69,Clean Air
+88,29,63,Clean Air
+72,28,60,Clean Air
+68,27,58,Clean Air
+45,26,54,Clean Air
+58,28,57,Clean Air
+62,29,62,Clean Air
+78,30,64,Clean Air
+82,31,67,Clean Air
+91,30,66,Clean Air
+53,27,55,Clean Air
+66,28,59,Clean Air
+74,29,61,Clean Air
+84,30,63,Clean Air
+92,31,68,Clean Air
+87,29,65,Clean Air
+79,28,62,Clean Air
+69,27,58,Clean Air
+57,26,54,Clean Air
+64,28,60,Clean Air
+73,29,63,Clean Air
+81,30,66,Clean Air
+89,31,69,Clean Air
+77,29,64,Clean Air
+71,28,61,Clean Air
+63,27,57,Clean Air
+54,26,55,Clean Air
+59,28,58,Clean Air
 
 110,30,60,Good
 120,31,62,Good
@@ -122,84 +122,84 @@ aq,temp,humidity,label
 166,31,60,Moderate
 158,30,58,Moderate
 
-210,32,60,Bad
-220,33,62,Bad
-240,34,65,Bad
-260,35,67,Bad
-230,33,63,Bad
-280,36,68,Bad
-270,35,66,Bad
-250,34,64,Bad
-215,32,61,Bad
-205,31,59,Bad
-218,33,62,Bad
-228,34,65,Bad
-248,35,67,Bad
-265,36,69,Bad
-255,34,64,Bad
-235,33,61,Bad
-225,32,60,Bad
-238,34,63,Bad
-258,35,66,Bad
-275,36,68,Bad
-268,35,67,Bad
-245,34,65,Bad
-232,33,62,Bad
-212,31,58,Bad
-222,32,60,Bad
-242,34,64,Bad
-262,35,67,Bad
-278,36,69,Bad
-266,35,66,Bad
-252,34,63,Bad
-218,32,61,Bad
-208,31,59,Bad
-226,33,62,Bad
-236,34,65,Bad
-256,35,68,Bad
-272,36,67,Bad
-246,34,64,Bad
-234,33,61,Bad
-224,32,60,Bad
-214,31,58,Bad
+210,32,60,Unhealthy
+220,33,62,Unhealthy
+240,34,65,Unhealthy
+260,35,67,Unhealthy
+230,33,63,Unhealthy
+280,36,68,Unhealthy
+270,35,66,Unhealthy
+250,34,64,Unhealthy
+215,32,61,Unhealthy
+205,31,59,Unhealthy
+218,33,62,Unhealthy
+228,34,65,Unhealthy
+248,35,67,Unhealthy
+265,36,69,Unhealthy
+255,34,64,Unhealthy
+235,33,61,Unhealthy
+225,32,60,Unhealthy
+238,34,63,Unhealthy
+258,35,66,Unhealthy
+275,36,68,Unhealthy
+268,35,67,Unhealthy
+245,34,65,Unhealthy
+232,33,62,Unhealthy
+212,31,58,Unhealthy
+222,32,60,Unhealthy
+242,34,64,Unhealthy
+262,35,67,Unhealthy
+278,36,69,Unhealthy
+266,35,66,Unhealthy
+252,34,63,Unhealthy
+218,32,61,Unhealthy
+208,31,59,Unhealthy
+226,33,62,Unhealthy
+236,34,65,Unhealthy
+256,35,68,Unhealthy
+272,36,67,Unhealthy
+246,34,64,Unhealthy
+234,33,61,Unhealthy
+224,32,60,Unhealthy
+214,31,58,Unhealthy
 
-310,34,60,Worse
-330,35,62,Worse
-350,36,65,Worse
-380,37,67,Worse
-340,35,63,Worse
-400,38,68,Worse
-370,37,66,Worse
-360,36,64,Worse
-320,34,61,Worse
-305,33,59,Worse
-318,35,62,Worse
-338,36,65,Worse
-358,37,67,Worse
-390,38,69,Worse
-365,36,64,Worse
-345,35,61,Worse
-325,34,60,Worse
-348,36,63,Worse
-368,37,66,Worse
-395,38,68,Worse
-385,37,67,Worse
-355,36,65,Worse
-335,35,62,Worse
-312,33,58,Worse
-322,34,60,Worse
-342,36,64,Worse
-362,37,67,Worse
-398,38,69,Worse
-372,37,66,Worse
-352,36,63,Worse
-318,34,61,Worse
-308,33,59,Worse
-328,35,62,Worse
-338,36,65,Worse
-368,37,68,Worse
-388,38,67,Worse
-358,36,64,Worse
-346,35,61,Worse
-326,34,60,Worse
-316,33,58,Worse
+310,34,60,Hazardous
+330,35,62,Hazardous
+350,36,65,Hazardous
+380,37,67,Hazardous
+340,35,63,Hazardous
+400,38,68,Hazardous
+370,37,66,Hazardous
+360,36,64,Hazardous
+320,34,61,Hazardous
+305,33,59,Hazardous
+318,35,62,Hazardous
+338,36,65,Hazardous
+358,37,67,Hazardous
+390,38,69,Hazardous
+365,36,64,Hazardous
+345,35,61,Hazardous
+325,34,60,Hazardous
+348,36,63,Hazardous
+368,37,66,Hazardous
+395,38,68,Hazardous
+385,37,67,Hazardous
+355,36,65,Hazardous
+335,35,62,Hazardous
+312,33,58,Hazardous
+322,34,60,Hazardous
+342,36,64,Hazardous
+362,37,67,Hazardous
+398,38,69,Hazardous
+372,37,66,Hazardous
+352,36,63,Hazardous
+318,34,61,Hazardous
+308,33,59,Hazardous
+328,35,62,Hazardous
+338,36,65,Hazardous
+368,37,68,Hazardous
+388,38,67,Hazardous
+358,36,64,Hazardous
+346,35,61,Hazardous
+326,34,60,Hazardous
+316,33,58,Hazardous
