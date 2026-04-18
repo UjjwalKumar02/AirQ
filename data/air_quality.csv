@@ -1,0 +1,205 @@
+aq,temp,humidity,label
+35,26,55,Very Good
+42,27,60,Very Good
+55,28,58,Very Good
+60,29,62,Very Good
+48,27,57,Very Good
+70,30,65,Very Good
+85,31,68,Very Good
+90,29,64,Very Good
+75,28,61,Very Good
+65,27,59,Very Good
+50,26,56,Very Good
+80,30,66,Very Good
+95,31,69,Very Good
+88,29,63,Very Good
+72,28,60,Very Good
+68,27,58,Very Good
+45,26,54,Very Good
+58,28,57,Very Good
+62,29,62,Very Good
+78,30,64,Very Good
+82,31,67,Very Good
+91,30,66,Very Good
+53,27,55,Very Good
+66,28,59,Very Good
+74,29,61,Very Good
+84,30,63,Very Good
+92,31,68,Very Good
+87,29,65,Very Good
+79,28,62,Very Good
+69,27,58,Very Good
+57,26,54,Very Good
+64,28,60,Very Good
+73,29,63,Very Good
+81,30,66,Very Good
+89,31,69,Very Good
+77,29,64,Very Good
+71,28,61,Very Good
+63,27,57,Very Good
+54,26,55,Very Good
+59,28,58,Very Good
+
+110,30,60,Good
+120,31,62,Good
+135,32,65,Good
+140,33,67,Good
+125,31,63,Good
+150,34,68,Good
+145,33,66,Good
+130,32,64,Good
+115,30,61,Good
+105,29,59,Good
+118,31,62,Good
+128,32,65,Good
+138,33,67,Good
+142,34,69,Good
+133,32,64,Good
+122,31,61,Good
+112,30,60,Good
+126,32,63,Good
+136,33,66,Good
+148,34,68,Good
+144,33,67,Good
+132,32,65,Good
+121,31,62,Good
+109,29,58,Good
+117,30,60,Good
+127,32,64,Good
+139,33,67,Good
+147,34,69,Good
+141,33,66,Good
+129,32,63,Good
+119,30,61,Good
+111,29,59,Good
+123,31,62,Good
+134,32,65,Good
+146,34,68,Good
+143,33,67,Good
+131,32,64,Good
+124,31,61,Good
+116,30,60,Good
+108,29,58,Good
+
+160,31,60,Moderate
+170,32,62,Moderate
+180,33,65,Moderate
+190,34,67,Moderate
+175,32,63,Moderate
+200,35,68,Moderate
+195,34,66,Moderate
+185,33,64,Moderate
+165,31,61,Moderate
+155,30,59,Moderate
+168,32,62,Moderate
+178,33,65,Moderate
+188,34,67,Moderate
+192,35,69,Moderate
+183,33,64,Moderate
+172,32,61,Moderate
+162,31,60,Moderate
+176,33,63,Moderate
+186,34,66,Moderate
+198,35,68,Moderate
+194,34,67,Moderate
+182,33,65,Moderate
+171,32,62,Moderate
+159,30,58,Moderate
+167,31,60,Moderate
+177,33,64,Moderate
+189,34,67,Moderate
+197,35,69,Moderate
+191,34,66,Moderate
+179,33,63,Moderate
+169,31,61,Moderate
+161,30,59,Moderate
+173,32,62,Moderate
+184,33,65,Moderate
+196,35,68,Moderate
+193,34,67,Moderate
+181,33,64,Moderate
+174,32,61,Moderate
+166,31,60,Moderate
+158,30,58,Moderate
+
+210,32,60,Bad
+220,33,62,Bad
+240,34,65,Bad
+260,35,67,Bad
+230,33,63,Bad
+280,36,68,Bad
+270,35,66,Bad
+250,34,64,Bad
+215,32,61,Bad
+205,31,59,Bad
+218,33,62,Bad
+228,34,65,Bad
+248,35,67,Bad
+265,36,69,Bad
+255,34,64,Bad
+235,33,61,Bad
+225,32,60,Bad
+238,34,63,Bad
+258,35,66,Bad
+275,36,68,Bad
+268,35,67,Bad
+245,34,65,Bad
+232,33,62,Bad
+212,31,58,Bad
+222,32,60,Bad
+242,34,64,Bad
+262,35,67,Bad
+278,36,69,Bad
+266,35,66,Bad
+252,34,63,Bad
+218,32,61,Bad
+208,31,59,Bad
+226,33,62,Bad
+236,34,65,Bad
+256,35,68,Bad
+272,36,67,Bad
+246,34,64,Bad
+234,33,61,Bad
+224,32,60,Bad
+214,31,58,Bad
+
+310,34,60,Worse
+330,35,62,Worse
+350,36,65,Worse
+380,37,67,Worse
+340,35,63,Worse
+400,38,68,Worse
+370,37,66,Worse
+360,36,64,Worse
+320,34,61,Worse
+305,33,59,Worse
+318,35,62,Worse
+338,36,65,Worse
+358,37,67,Worse
+390,38,69,Worse
+365,36,64,Worse
+345,35,61,Worse
+325,34,60,Worse
+348,36,63,Worse
+368,37,66,Worse
+395,38,68,Worse
+385,37,67,Worse
+355,36,65,Worse
+335,35,62,Worse
+312,33,58,Worse
+322,34,60,Worse
+342,36,64,Worse
+362,37,67,Worse
+398,38,69,Worse
+372,37,66,Worse
+352,36,63,Worse
+318,34,61,Worse
+308,33,59,Worse
+328,35,62,Worse
+338,36,65,Worse
+368,37,68,Worse
+388,38,67,Worse
+358,36,64,Worse
+346,35,61,Worse
+326,34,60,Worse
+316,33,58,Worse
