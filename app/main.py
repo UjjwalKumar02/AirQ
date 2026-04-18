@@ -8,11 +8,11 @@ model = joblib.load(
 app = FastAPI()
 
 feedback_map = {
-    "Clean Air": "Excellent air ✅",
-    "Good": "Air is fine 🙂",
-    "Moderate": "Limit exposure 😐",
-    "Unhealthy": "Wear a mask 😷",
-    "Hazardous": "Stay indoors ⚠️",
+    "Clean Air": "Excellent air",
+    "Good": "Air is fine",
+    "Moderate": "Limit exposure",
+    "Unhealthy": "Wear a mask",
+    "Hazardous": "Stay indoors",
 }
 
 
