@@ -9,7 +9,7 @@
 float normalizeMQ(int rawValue)
 {
   // Map 0–4095 → 0–400
-  return (rawValue / 4095.0) * 400.0;
+  return ((rawValue / 4095.0) * 400.0) / 2;
 }
 
 // WiFi

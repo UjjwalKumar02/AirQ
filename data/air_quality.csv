@@ -1,126 +1,66 @@
 aq,temp,humidity,label
 35,26,55,Clean Air
 42,27,60,Clean Air
-55,28,58,Clean Air
-60,29,62,Clean Air
-48,27,57,Clean Air
-70,30,65,Clean Air
-85,31,68,Clean Air
-90,29,64,Clean Air
-75,28,61,Clean Air
-65,27,59,Clean Air
-50,26,56,Clean Air
-80,30,66,Clean Air
-95,31,69,Clean Air
-88,29,63,Clean Air
-72,28,60,Clean Air
-68,27,58,Clean Air
-45,26,54,Clean Air
-58,28,57,Clean Air
-62,29,62,Clean Air
-78,30,64,Clean Air
-82,31,67,Clean Air
-91,30,66,Clean Air
-53,27,55,Clean Air
-66,28,59,Clean Air
-74,29,61,Clean Air
-84,30,63,Clean Air
-92,31,68,Clean Air
-87,29,65,Clean Air
-79,28,62,Clean Air
-69,27,58,Clean Air
-57,26,54,Clean Air
-64,28,60,Clean Air
-73,29,63,Clean Air
-81,30,66,Clean Air
-89,31,69,Clean Air
-77,29,64,Clean Air
-71,28,61,Clean Air
-63,27,57,Clean Air
-54,26,55,Clean Air
-59,28,58,Clean Air
+45,28,58,Clean Air
+48,29,62,Clean Air
+40,27,57,Clean Air
+50,30,65,Clean Air
+47,31,68,Clean Air
+49,29,64,Clean Air
+44,28,61,Clean Air
+43,27,59,Clean Air
+38,26,56,Clean Air
+46,30,66,Clean Air
+50,31,69,Clean Air
+48,29,63,Clean Air
+45,28,60,Clean Air
+44,27,58,Clean Air
+36,26,54,Clean Air
+41,28,57,Clean Air
+47,29,62,Clean Air
+46,30,64,Clean Air
 
-110,30,60,Good
-120,31,62,Good
-135,32,65,Good
-140,33,67,Good
-125,31,63,Good
-150,34,68,Good
-145,33,66,Good
-130,32,64,Good
-115,30,61,Good
-105,29,59,Good
-118,31,62,Good
-128,32,65,Good
-138,33,67,Good
-142,34,69,Good
-133,32,64,Good
-122,31,61,Good
-112,30,60,Good
-126,32,63,Good
-136,33,66,Good
-148,34,68,Good
-144,33,67,Good
-132,32,65,Good
-121,31,62,Good
-109,29,58,Good
-117,30,60,Good
-127,32,64,Good
-139,33,67,Good
-147,34,69,Good
-141,33,66,Good
-129,32,63,Good
-119,30,61,Good
-111,29,59,Good
-123,31,62,Good
-134,32,65,Good
-146,34,68,Good
-143,33,67,Good
-131,32,64,Good
-124,31,61,Good
-116,30,60,Good
-108,29,58,Good
+60,30,60,Good
+65,31,62,Good
+70,32,65,Good
+75,33,67,Good
+68,31,63,Good
+80,34,68,Good
+78,33,66,Good
+72,32,64,Good
+66,30,61,Good
+58,29,59,Good
+64,31,62,Good
+69,32,65,Good
+73,33,67,Good
+77,34,69,Good
+71,32,64,Good
+67,31,61,Good
+61,30,60,Good
+74,32,63,Good
+76,33,66,Good
+79,34,68,Good
 
-160,31,60,Moderate
-170,32,62,Moderate
-180,33,65,Moderate
-190,34,67,Moderate
-175,32,63,Moderate
-200,35,68,Moderate
-195,34,66,Moderate
-185,33,64,Moderate
-165,31,61,Moderate
-155,30,59,Moderate
-168,32,62,Moderate
-178,33,65,Moderate
-188,34,67,Moderate
-192,35,69,Moderate
-183,33,64,Moderate
-172,32,61,Moderate
-162,31,60,Moderate
-176,33,63,Moderate
-186,34,66,Moderate
-198,35,68,Moderate
-194,34,67,Moderate
-182,33,65,Moderate
-171,32,62,Moderate
-159,30,58,Moderate
-167,31,60,Moderate
-177,33,64,Moderate
-189,34,67,Moderate
-197,35,69,Moderate
-191,34,66,Moderate
-179,33,63,Moderate
-169,31,61,Moderate
-161,30,59,Moderate
-173,32,62,Moderate
-184,33,65,Moderate
-196,35,68,Moderate
-193,34,67,Moderate
-181,33,64,Moderate
-174,32,61,Moderate
-166,31,60,Moderate
-158,30,58,Moderate
+110,31,60,Moderate
+120,32,62,Moderate
+130,33,65,Moderate
+140,34,67,Moderate
+125,32,63,Moderate
+150,35,68,Moderate
+145,34,66,Moderate
+135,33,64,Moderate
+115,31,61,Moderate
+105,30,59,Moderate
+118,32,62,Moderate
+128,33,65,Moderate
+138,34,67,Moderate
+142,35,69,Moderate
+133,33,64,Moderate
+122,32,61,Moderate
+112,31,60,Moderate
+126,33,63,Moderate
+136,34,66,Moderate
+148,35,68,Moderate
 
 210,32,60,Unhealthy
 220,33,62,Unhealthy
@@ -142,26 +82,6 @@ aq,temp,humidity,label
 238,34,63,Unhealthy
 258,35,66,Unhealthy
 275,36,68,Unhealthy
-268,35,67,Unhealthy
-245,34,65,Unhealthy
-232,33,62,Unhealthy
-212,31,58,Unhealthy
-222,32,60,Unhealthy
-242,34,64,Unhealthy
-262,35,67,Unhealthy
-278,36,69,Unhealthy
-266,35,66,Unhealthy
-252,34,63,Unhealthy
-218,32,61,Unhealthy
-208,31,59,Unhealthy
-226,33,62,Unhealthy
-236,34,65,Unhealthy
-256,35,68,Unhealthy
-272,36,67,Unhealthy
-246,34,64,Unhealthy
-234,33,61,Unhealthy
-224,32,60,Unhealthy
-214,31,58,Unhealthy
 
 310,34,60,Hazardous
 330,35,62,Hazardous
@@ -183,23 +103,3 @@ aq,temp,humidity,label
 348,36,63,Hazardous
 368,37,66,Hazardous
 395,38,68,Hazardous
-385,37,67,Hazardous
-355,36,65,Hazardous
-335,35,62,Hazardous
-312,33,58,Hazardous
-322,34,60,Hazardous
-342,36,64,Hazardous
-362,37,67,Hazardous
-398,38,69,Hazardous
-372,37,66,Hazardous
-352,36,63,Hazardous
-318,34,61,Hazardous
-308,33,59,Hazardous
-328,35,62,Hazardous
-338,36,65,Hazardous
-368,37,68,Hazardous
-388,38,67,Hazardous
-358,36,64,Hazardous
-346,35,61,Hazardous
-326,34,60,Hazardous
-316,33,58,Hazardous
